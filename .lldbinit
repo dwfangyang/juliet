@@ -1,0 +1,3 @@
+log enable -f /tmp/lldb-expr-log.txt lldb expr
+command script import /Users/fangyang/srcfolder/lldb_python/inGivenFrame.py
+
